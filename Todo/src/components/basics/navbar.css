@@ -1,0 +1,10 @@
+.navbar div{
+    margin: auto;
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.navbar div button{
+    text-transform: capitalize;
+    margin-left: 2rem;
+}
